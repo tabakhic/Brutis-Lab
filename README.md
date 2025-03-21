@@ -65,7 +65,7 @@
 - **Session End Time**: `2024-03-06 06:37:24`
 - This timestamp corresponds to when the attacker's first SSH session ended, as noted in the `auth.log`.
 
-![Attacker's Exit Log](https://imgur.com/AjfZGI4.png)  
+![Attacker's Exit Log](https://i.imgur.com/SRnv3ha.png)
 *Ref 7: `auth.log` showing the attacker’s session end time at `06:37:24`*
 
 ---
